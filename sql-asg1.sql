@@ -1,5 +1,6 @@
-Drop database company;
 CREATE DATABASE Company_Details;
+
+USE Company_Details;
 
 -- Create EmployeeDetails table
 CREATE TABLE EmployeeDetails (
